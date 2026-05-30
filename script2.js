@@ -13,6 +13,16 @@ const characters = {
 }
 
 const generatePassword = () => {
+    if (
+    !lowercase.checked &&
+    !uppercase.checked &&
+    !numbers.checked &&
+    !symbols.checked
+) {
+    alert("Please select at least one character type.");
+    return;
+}
+    
     let staticPassword = "",
         randomPassword = "",
         excludeDuplicate = false,
