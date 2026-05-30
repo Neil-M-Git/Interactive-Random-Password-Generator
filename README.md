@@ -35,7 +35,8 @@ Through this project, I practiced:
 - Git & GitHub Workflow
 - Deploying Projects with Vercel
 
-## 🔗 GitHub Repository - https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
+## 🔗 GitHub Repository
+Link to the GitHub repository of the project - https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
 
 ## 👨‍💻 Neil Majumdar
 
