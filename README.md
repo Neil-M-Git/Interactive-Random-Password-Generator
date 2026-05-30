@@ -39,6 +39,5 @@ Through this project, I practiced:
 Link to the GitHub repository of the project - https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
 
 ## 👨‍💻 
-Project by - Neil Majumdar
 
 Neil Majumdar
