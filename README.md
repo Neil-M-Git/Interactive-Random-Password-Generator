@@ -35,7 +35,7 @@ Through this project, I practiced:
 - Git & GitHub Workflow
 - Deploying Projects with Vercel
 
-## Website Preview
+## 📸 Website Preview
 ![Random Password Generator](random_pass_generator_site_final_look_and_demo.png)
 
 ## 🔗 GitHub Repository
