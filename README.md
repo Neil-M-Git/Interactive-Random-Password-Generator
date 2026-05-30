@@ -2,7 +2,7 @@
 A responsive and interactive password generator built using HTML, CSS, and JavaScript. Users can create strong and customizable passwords by selecting different character options and adjusting password length.
 
 ## 🚀 Live Demo
-View the project here - https://interactive-random-password-generator-6qkd322ry.vercel.app/
+View the project here - https://interactive-random-password-generator-l6lkdnmp0.vercel.app/
 
 ## ✨ Features
 - Generate secure random passwords
