@@ -1,34 +1,42 @@
-# Interactive Random Password Generator
+# 🔐 Interactive Random Password Generator
+A responsive and interactive password generator built using HTML, CSS, and JavaScript. Users can create strong and customizable passwords by selecting different character options and adjusting password length.
 
-A customizable password generator built using HTML, CSS, and JavaScript. Users can generate secure passwords by selecting character types, adjusting password length, and using additional options such as excluding duplicate characters and including spaces.
+## 🚀 Live Demo
+View the project here - https://interactive-random-password-generator-6qkd322ry.vercel.app/
 
-## Features
-
-- Generate random passwords instantly
-- Adjustable password length slider
-- Lowercase, uppercase, numbers, and symbols support
+## ✨ Features
+- Generate secure random passwords
+- Adjustable password length
+- Include:
+  - Lowercase letters (a-z)
+  - Uppercase letters (A-Z)
+  - Numbers (0-9)
+  - Symbols (!, @, #, $, etc.)
+- Exclude duplicate characters
+- Include spaces
 - Password strength indicator
-- Exclude duplicate characters option
-- Include spaces option
 - One-click copy to clipboard
-- Clean and responsive user interface
+- Input validation to prevent empty character selections
+- Responsive and clean user interface
 
-## Technologies Used
-
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## Preview
+## 📚 What I Learned
+Through this project, I practiced:
 
-Generate strong and customizable passwords with an intuitive interface designed for ease of use.
+- DOM Manipulation
+- Event Handling
+- Random Password Generation Logic
+- Conditional Rendering
+- Form Validation
+- Git & GitHub Workflow
+- Deploying Projects with Vercel
 
-## How to Run
+## 🔗 GitHub Repository - https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
 
-1. Download or clone the repository.
-2. Open `pass.html` in your browser.
-3. Customize the settings and generate secure passwords.
+## 👨‍💻 Neil Majumdar
 
-## Author
-
-Neil M
+Neil Majumdar
